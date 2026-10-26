@@ -11,7 +11,7 @@
 
 | Area | Status | Tracker |
 |---|---|---|
-| 🐍 Python fundamentals | ⬜ Not started | [python-fundamentals](trackers/python-fundamentals.md) |
+| 🐍 Python fundamentals | 🟨 In progress | [python-fundamentals](trackers/python-fundamentals.md) |
 | 🧩 DSA in Python | ⬜ Not started | [dsa](trackers/dsa.md) |
 | 🏗️ LLD (Java) | ⬜ Not started | [lld](trackers/lld.md) |
 | 🌐 System design (HLD) | ⬜ Not started | [system-design](trackers/system-design.md) |
